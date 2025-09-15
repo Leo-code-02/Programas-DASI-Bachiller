@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Diagrama de flujo (Perimetro)", "Diagrama de flujo (Perimetro)\Diagrama de flujo (Perimetro).vbproj", "{E0401498-89AE-4AF0-BEA7-3BD6B3C32D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0401498-89AE-4AF0-BEA7-3BD6B3C32D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0401498-89AE-4AF0-BEA7-3BD6B3C32D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0401498-89AE-4AF0-BEA7-3BD6B3C32D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0401498-89AE-4AF0-BEA7-3BD6B3C32D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AA96B7A-5A16-4BD1-BD14-AC52CD3AD63A}
+	EndGlobalSection
+EndGlobal
